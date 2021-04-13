@@ -46,6 +46,7 @@
                     android:layout_height="match_parent">
 
                     <!-- Whether or not to enable metrics -->
+<!-- disable it!
                     <LinearLayout
                         android:id="@+id/metrics"
                         android:orientation="horizontal"
@@ -73,6 +74,7 @@
                             style="@style/SudCheckBox.Multiline" />
 
                     </LinearLayout>
+-->
 
                     <!-- Checkbox for using on-screen nav keys -->
                     <LinearLayout
